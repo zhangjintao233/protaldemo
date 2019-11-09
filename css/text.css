@@ -6,13 +6,13 @@ a{
 }
 #div2{
     height: 100%;
-    width: 100%;
+    /*width: 100%;*/
     margin: auto;
 }
 #div3{
     height: 70px;
     width: 100%;
-    background-color: navajowhite;
+    background-color: white;
     /*margin-top: 10px;*/
 }
 #div3-2{
@@ -31,7 +31,7 @@ a{
     margin-left: 10px;
 }
 #a2{
-    height: 25px;
+    height: 28px;
     width: 150px;
     float: right;
     /*border: 1px black solid;*/
@@ -42,7 +42,7 @@ a{
 }
 #a2 span{
     margin-left: 10px;
-    font-size: 10px;
+    font-size: 13.5px;
     color: #B3B3B3;
 }
 #div3-4 img{
@@ -56,7 +56,7 @@ a{
     height: 20px;
     width: 100%;
     position: absolute;
-    top: 44px;
+    top: 50px;
     display: flex;
     justify-content: space-around;  /*平分间距*/
 }
@@ -75,12 +75,130 @@ a{
     top: 25px;
 }
 #div5{
-    height: 250px;
-    width: 100%;
-    background-color: #B3B3B3;
-    margin: auto;
+    height: 100%;
+    /*width: 100%;*/
+    background-color: white;
+    position: relative;
+}
+#div5-2{
+    margin: 16px;
+    margin-bottom: 0;
 }
 #div5-2 img{
-    height: 200px;
-    width: 320px;
+    height: 100%;
+    width: 100%;
+}
+#div5-3{
+    height: 40px;
+    width: 100%;
+    background-color: #F4F6F6;
+    margin-bottom: 16px;
+}
+#div5-3-2{
+    float: right;
+    margin-right: 20px;
+}
+#div5-3-3{
+    margin-left: 12px;
+}
+#div5-4{
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+    padding: 2px 3px;
+    font-size: 10px;
+    color: #fff;
+    background-color: rgba(162,162,182,0.5);
+}
+#h4{
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 16px;
+    margin-top: 16px;
+}
+#div6{
+    height: 130px;
+    /*width: 100%;*/
+    padding: 16px;
+    padding-top: 0;
+}
+#div6-2{
+    height: 100px;
+    width: 48%;
+    float: left;
+    position: relative;
+
+}
+#div6-2 img{
+    height: 100%;
+    width: 100%;
+}
+#div6-3{
+    float: right;
+    height: 100px;
+    width: 48%;
+    /*margin-right: 30px;*/
+    position: relative;
+}
+#div6-3 img{
+    height: 100%;
+    width: 100%;
+}
+#div6-4,#div6-5{
+    font-size: 14px;
+}
+#div6-6,#div6-7{
+    font-size: 8px;
+    color: #A2A2B6;
+}
+#div6-8,#div6-9{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    padding: 2px 3px;
+    font-size: 10px;
+    color: #fff;
+    background-color: rgba(162,162,182,0.5);
+    /*opacity: 0.8;*/
+}
+#div7{
+    height: 130px;
+    /*width: 100%;*/
+    padding: 16px;
+}
+#div7-2{
+    height: 100px;
+    width: 48%;
+    float: left;
+    position: relative;
+}
+#div7-6{
+    height: 100px;
+    width: 48%;
+    float: right;
+    position: relative;
+}
+#div7-2 img{
+    height: 100%;
+    width: 100%;
+}
+#div7-6 img{
+    height: 100%;
+    width: 100%;
+}
+#div7-3,#div7-8 {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    padding: 2px 3px;
+    font-size: 10px;
+    color: #fff;
+    background-color: rgba(162, 162, 182, 0.5);
+}
+#div7-4,#div7-9{
+    font-size: 14px;
+}
+#div7-5,#div7-2-2 {
+    font-size: 8px;
+    color: #A2A2B6;
 }
