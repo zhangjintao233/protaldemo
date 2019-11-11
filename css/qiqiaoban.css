@@ -1,0 +1,65 @@
+.d2{
+    width: 0;
+    /*background-color: red;*/
+    border-left: 100px slateblue solid;
+    border-right: 100px transparent solid;
+    border-top: 100px darkorange solid;
+    border-bottom: 100px transparent solid;
+}
+.d3{
+    /*height: 500px;*/
+    width: 0;
+    /*background-color: transparent;*/
+    border-top: 200px transparent solid;
+    border-right: 200px yellow solid;
+    border-bottom: 200px black solid;
+    border-left: 200px transparent solid;
+    position: absolute;
+    top: 0;
+}
+.d4{
+    width: 0;
+    border-top: 100px transparent solid;
+    border-right: 100px transparent solid;
+    border-bottom: 100px darkorange solid;
+    border-left: 100px transparent solid;
+    position: absolute;
+    top: 0;
+}
+.d5{
+    width: 0;
+    border-top: 100px fuchsia solid;
+    border-right: 100px transparent solid;
+    border-bottom: 100px transparent solid;
+    border-left: 100px transparent solid;
+    position: absolute;
+    top: 0;
+    left: 200px;
+}
+.d6{
+    width: 0;
+    border-top: 100px red solid;
+    border-right: 100px transparent solid;
+    border-bottom: 100px transparent solid;
+    border-left: 100px red solid;
+}
+.d7{
+    width: 0;
+    border-top: 100px saddlebrown solid;
+    border-right: 100px transparent solid;
+    border-bottom: 100px transparent solid;
+    border-left: 100px transparent solid;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+.d8{
+    width: 0;
+    border-top: 100px transparent solid;
+    border-right: 100px transparent solid;
+    border-bottom: 100px fuchsia solid;
+    border-left: 100px transparent solid;
+    position: absolute;
+    top: -100px;
+    left: 100px;
+}

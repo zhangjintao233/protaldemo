@@ -1,0 +1,130 @@
+.c2{
+    height: 260px;
+    /*border: 1px saddlebrown solid;*/
+    background-color: #f9f9f9;
+}
+.c3{
+    height: 200px;
+    /*background-color: white;*/
+    padding: 16px;
+    position: relative;
+}
+.c4{
+    height: 150px;
+    width: 150px;
+    background-color: #f6f6f7;
+    display: table-cell;  /*图片居中*/
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 75px;
+}
+.c4 img{
+    height: 100px;
+    width: 100px;
+}
+.c5{
+    height: 80px;
+    width: 75%;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+}
+.c5 span{
+    font-size: 60px;
+    color: #272727;
+}
+.c5 span img{
+    float: right;
+    height: 80px;
+    width: 80px;
+}
+.c6{
+    height: 200px;
+    width: 900px;
+    background-color: white;
+    border: 5px seashell solid;
+    margin: 30px;
+    margin: auto;
+    margin-top: -50px;
+    display: flex;
+    justify-content: space-between;
+}
+.c6-2{
+    font-size: 45px;
+    left: 10px;
+    padding: 30px;
+    padding-left: 100px;
+}
+.c6-3{
+    font-size: 45px;
+    left: 10px;
+    padding: 30px;
+    padding-right: 200px;
+}
+.c6-3{
+    font-size: 45px;
+}
+.p2{
+    color: #ff7000;
+    font-size: 35px;
+}
+.c6-4{
+    font-size: 35px;
+}
+.c7{
+    padding: 40px;
+    font-size: 45px;
+}
+.s3{
+    float: right;
+}
+.c7-2{
+    height: 300px;
+    padding: 30px;
+}
+.c7-2 img{
+    height: 250px;
+    width: 400px;
+}
+.c7-2 p{
+    font-size: 38px;
+    margin-top: 25px;
+}
+.c8{
+    padding: 40px;
+    font-size: 45px;
+    margin-top: 100px;
+}
+.c9{
+    display: flex;
+}
+.c99{
+    float: right;
+}
+#div8-6{
+    position: fixed;
+    height: 150px;
+    width: 100%;
+    margin-left: -22px;
+    bottom: 0;
+    z-index: 1;
+    background-color: white;
+}
+#div8-7{
+    display: flex;
+    justify-content: space-around;
+}
+#div8-8,#div8-9,#div8-2-2,#div8-2-3,#div8-2-4{
+    height: 90px;
+    width: 90px;
+    float: left;
+}
+#div8-8 img,#div8-9 img,#div8-2-2 img,#div8-2-3 img,#div8-2-4 img{
+    height: 100%;
+    width: 100%;
+}
+.c22{
+    font-size: 30px;
+    padding-left: 18px;
+    color: #A2A2B6;
+}

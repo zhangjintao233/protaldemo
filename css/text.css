@@ -46,6 +46,7 @@ a{
     margin-top: 14px;
     background-color: #f6f6f7;
     border-radius: 4px;
+    outline: none;
 }
 #a2 span{
     margin-left: 10px;
@@ -258,12 +259,12 @@ a{
     height: 100%;
     width: 100%;
 }
-#div8-2-5{
-    display: flex;
-    justify-content: space-around;
-    color: #A2A2B6;
-    font-size: 10px;
-}
+/*#div8-2-5{*/
+    /*display: flex;*/
+    /*justify-content: space-around;*/
+    /*color: #A2A2B6;*/
+    /*font-size: 10px;*/
+/*}*/
 .c2{
     display: flex;
     justify-content: space-around;
