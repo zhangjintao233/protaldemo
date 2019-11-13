@@ -1,0 +1,150 @@
+.c2{
+    /*background-color: #B3B3B3;*/
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #B3B3B3;
+    font-size: 45px;
+}
+
+.c2 img{
+    height: 80px;
+    width: 80px;
+}
+.c2 input{
+    height: 80px;
+    width: 50%;
+    padding-left: 40px;
+    border-radius: 50px;
+    background-color: #f6f6f7;
+    border: none;
+    outline: none;
+    font-size: 40px;
+}
+.c2 a{
+    color: #383838;
+}
+.c3{
+}
+.c3-1{
+    font-size: 38px;
+    color: #ff8200;
+    padding: 30px;
+    float: left;
+}
+.c3-2{
+    font-size: 38px;
+    padding: 30px;
+    float: left;
+}
+.c3-3{
+    float: right;
+    font-size: 38px;
+    padding: 30px;
+}
+.yanse,.yans{
+    height: 30px;
+    background: #EFEFEF;
+    margin-top: 100px;
+}
+.c4{
+    padding: 40px;
+}
+.c4 img{
+    float: left;
+    height: 550px;
+    width: 380px;
+}
+.c4-2{
+    padding-left: 24px;
+    font-size: 38px;
+    float: left;
+}
+.mingzi{
+    color: #ff8200;
+}
+.p1,.p2{
+    color: #8D8D8D;
+    font-size: 36px;
+    margin: 14px;
+    margin-left: 0;
+}
+.p2{
+    margin-bottom: 240px;
+}
+.s2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75px;
+    width: 250px;
+    background-color: #FF8200;
+    color: white;
+    border-radius: 10px;
+}
+.dang{
+    height: 550px;
+}
+.c5{
+    display: flex;
+    font-size: 40px;
+    justify-content: space-between;
+    margin: 30px;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+.c5-2{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    color: #969696;
+}
+.yans{
+    margin-top: 0;
+}
+.c6{
+    margin: 30px;
+    display: flex;
+}
+.c6-2{
+    height: 230px;
+    position: relative;
+}
+.c6-2 img{
+    height: 230px;
+    width: 380px;
+}
+.c6-3{
+    padding-left: 24px;
+    font-size: 36px;
+}
+.s3{
+    color: #FF7000;
+}
+.c6-4{
+    color: #898989;
+}
+.c6-6{
+    color: #FF7000;
+}
+.p5{
+    margin-top: 95px;
+    margin-bottom: 0;
+    color: #898989;
+}
+.pp{
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: #898989;
+}
+.c6-5{
+    height: 50px;
+    width: 140px;
+    font-size: 34px;
+    background-color: rgba(0,0,0,.6);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}

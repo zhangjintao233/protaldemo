@@ -1,0 +1,109 @@
+.div2{
+    height: 150px;
+    background-color: #2D2D2E;
+    position: relative;
+}
+.div2-2{
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 28px;
+    left: 40px;
+
+}
+.div2-2 img{
+    height: 100%;
+    width: 100%;
+}
+.div2-3{
+    font-size: 42px;
+    color: white;
+    position: absolute;
+    top: 40px;
+    left: 130px;
+}
+.div2-4{
+    height: 60px;
+    width: 140px;
+    font-size: 42px;
+    color: white;
+    position: absolute;
+    padding-left: 60px;
+    border-radius: 10px;
+    top: 40px;
+    right: 50px;
+    background-color: #FF7000;
+}
+.ddd{
+    height: 150px;
+}
+.div2-5{
+    height: 550px;
+}
+.div2-5 img{
+    height: 100%;
+    width: 100%;
+}
+.c3{
+    margin-top: 40px;
+    border-bottom: 1px solid #a2a2b6;
+}
+
+.c3-2{
+    font-size: 50px;
+    font-weight: bolder;
+    padding-left: 40px;
+    margin-bottom: 10px;
+}
+.c3-3{
+    font-size: 40px;
+    padding-left: 40px;
+    margin-bottom: 25px;
+    color: #848494;
+}
+.c3-4{
+    height: 160px;
+    position: relative;
+}
+.s1{
+    padding-top: 30px;
+    padding-left: 40px;
+    height: 70px;
+}
+.s2{
+    position: absolute;
+    height: 90px;
+    right: 40px;
+}
+.c4{
+    height: 120px;
+    background-color: #E5C057;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    margin: 40px;
+    border-radius: 10px;
+}
+.c4 a{
+    color: white;
+}
+.c5{
+    margin: 40px;
+}
+.c5-2{
+    position: relative;
+}
+.n1{
+    font-size: 45px;
+    font-weight: bolder;
+}
+.n2{
+    font-size: 35px;
+    position: absolute;
+    right: 0;
+    color: #848494;
+}
+.c5-3{
+    margin: 40px;
+}
