@@ -271,6 +271,11 @@ a{
     color: #A2A2B6;
     font-size: 10px;
 }
+#div99 a span{
+    position: absolute;
+    right: 158px;
+    color: #a2a2b6;
+}
 #kong{
     height: 90px;
 }

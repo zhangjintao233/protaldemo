@@ -46,7 +46,7 @@
     width: 900px;
     background-color: white;
     border: 5px seashell solid;
-    margin: 30px;
+    /*margin: 30px;*/
     margin: auto;
     margin-top: -50px;
     display: flex;
